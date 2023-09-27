@@ -33,7 +33,7 @@ int main() {
       cout << "Enter Book Author : ";
       cin>>lib[count].author;
       cout << "Enter student name : ";
-      cin>>lib[count].name;
+      cin>>lib[count].student;
       cout << "Enter book price : ";
       cin >> lib[count].price;
       cout << "Enter Book Pages : ";
